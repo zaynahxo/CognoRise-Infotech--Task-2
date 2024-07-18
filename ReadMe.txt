@@ -21,4 +21,3 @@ Enter the amount you want to convert in the "Amount" input box.
 Select the currency you want to convert from in the "From" dropdown.
 Select the currency you want to convert to in the "To" dropdown.
 Click the "Convert" button to see the converted amount.
-Contributing
